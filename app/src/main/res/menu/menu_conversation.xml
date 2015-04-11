@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.spj.messenger.Conversation">
+    <item
+        android:id="@+id/action_msgUpdate"
+        android:orderInCategory="100"
+        android:title="UPDATE"
+        app:showAsAction="always" />
+</menu>
